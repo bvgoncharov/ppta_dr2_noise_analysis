@@ -1,0 +1,11 @@
+datadir: data/
+out: out/
+overwrite: True
+allpulsars: False
+sampler: ptmcmcsampler
+SCAMweight: 30
+AMweight: 15
+DEweight: 50
+nsamp: 10000000
+{0}
+noise_model_file: noisemodels/ppta_dr2_model_20200524.json
