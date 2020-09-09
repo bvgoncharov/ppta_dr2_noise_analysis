@@ -112,7 +112,7 @@
         "equad": "by_backend",
         "dm_noise": "powerlaw",
         "system_noise": ["CPSR2_20CM", "CPSR2_50CM"],
-        "ppta_band_noise": ["1020CM"],
+        "paired_ppta_band_noise": ["by_B_1020CM"],
         "j1713_event_1": "exp_dip",
         "j1713_event_2": "exp_dip"
     },
