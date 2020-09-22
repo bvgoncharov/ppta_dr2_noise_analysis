@@ -84,12 +84,12 @@ class PPTADR2Models(StandardModels):
   def j1643_event(self, option="exp_dip"):
     return dm_exponential_dip(self.params.event_j1643_t0[0],
                               self.params.event_j1643_t0[1],
-                              idx="vary", tau_min_10_pow=5, tau_max_10_pow=100)
+                              idx="vary", tau_min_10_pow=5, tau_max_10_pow=1000)
   
   def j2145_event(self, option="exp_dip"):
     return dm_exponential_dip(self.params.event_j2145_t0[0],
                               self.params.event_j2145_t0[1],
-                              idx="vary", tau_min_10_pow=5, tau_max_10_pow=100)
+                              idx="vary", tau_min_10_pow=5, tau_max_10_pow=1000)
   
   def j1603_event(self, option="gaussian_bump"):
     return dm_gaussian_bump(self.params.event_j1603_t0[0],
