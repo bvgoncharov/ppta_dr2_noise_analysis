@@ -8,6 +8,11 @@ python run_dr2.py --prfile params/dr2_parameter_estimation.dat
 
 ## Citation
 
-> Goncharov, B., Reardon, D. J., Shannon, R. M., Zhu, X. J., Thrane, E., Bailes, M., Bhat, N. D. R., Dai, S., Hobbs, G., Kerr, M., Manchester, R. N., Oslowski, S., Parthasarathy, A., Russell, C. J., Spiewak, R., Thyagarajan, N., Wang J. B. (2020). Submitted to Monthly Notices of the Royal Astronomical Society.
+> @article{goncharov2020pptadr2noise,
+>   title={Identifying and mitigating noise sources in precision pulsar timing data sets},
+>   author={Goncharov, Boris and Reardon, DJ and Shannon, RM and Zhu, Xing-Jiang and Thrane, Eric and Bailes, M and Bhat, NDR and Dai, S and Hobbs, G and Kerr, M and others},
+>   journal={arXiv preprint arXiv:2010.06109},
+>   year={2020}
+> }
 
-(The citation will be updated when the paper is accepted)
+(Accepted in MNRAS, the citation will be updated soon)
