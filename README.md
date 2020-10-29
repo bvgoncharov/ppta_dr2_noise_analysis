@@ -9,10 +9,10 @@ python run_dr2.py --prfile params/dr2_parameter_estimation.dat
 ## Citation
 
 > @article{goncharov2020pptadr2noise,\
->   title={Identifying and mitigating noise sources in precision pulsar timing data sets},\
->   author={Goncharov, Boris and Reardon, DJ and Shannon, RM and Zhu, Xing-Jiang and Thrane, Eric and Bailes, M and Bhat, NDR and Dai, S and Hobbs, G and Kerr, M and others},\
->   journal={arXiv preprint arXiv:2010.06109},\
->   year={2020}\
+> &nbsp;&nbsp;title={Identifying and mitigating noise sources in precision pulsar timing data sets},\
+> &nbsp;&nbsp;author={Goncharov, Boris and Reardon, DJ and Shannon, RM and Zhu, Xing-Jiang and Thrane, Eric and Bailes, M and Bhat, NDR and Dai, S and Hobbs, G and Kerr, M and others},\
+> &nbsp;&nbsp;journal={arXiv preprint arXiv:2010.06109},\
+> &nbsp;&nbsp;year={2020}\
 > }
 
 (Accepted in MNRAS, the citation will be updated soon)
