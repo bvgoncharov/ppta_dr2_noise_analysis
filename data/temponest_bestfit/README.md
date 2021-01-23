@@ -1,0 +1,1 @@
+This directory improves upon the original data set by including our best-fit red noise models in temponest format into .par files. Files .t2out contain the output of general2 plugin output with columns: 'bat','freq','post','err','posttn','tndm','tnrn','tnrnerr','tndmerr','tnchrom','tnchromerr'.
