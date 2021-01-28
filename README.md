@@ -8,11 +8,17 @@ python run_dr2.py --prfile params/dr2_parameter_estimation.dat
 
 ## Citation
 
-> @article{goncharov2020pptadr2noise,\
-> &nbsp;&nbsp;title={Identifying and mitigating noise sources in precision pulsar timing data sets},\
-> &nbsp;&nbsp;author={Goncharov, Boris and Reardon, DJ and Shannon, RM and Zhu, Xing-Jiang and Thrane, Eric and Bailes, M and Bhat, NDR and Dai, S and Hobbs, G and Kerr, M and others},\
-> &nbsp;&nbsp;journal={arXiv preprint arXiv:2010.06109},\
-> &nbsp;&nbsp;year={2020}\
-> }
+Goncharov, B., Reardon, D.J., Shannon, R.M., Zhu, X.J., Thrane, E., Bailes, M., Bhat, N.D.R., Dai, S., Hobbs, G., Kerr, M. and Manchester, R.N., 2020. Identifying and mitigating noise sources in precision pulsar timing data sets. Monthly Notices of the Royal Astronomical Society.
 
-(Accepted in MNRAS, the citation will be updated soon)
+> @ARTICLE{2020MNRAS.tmp.3250G,\
+> &nbsp;&nbsp;&nbsp;&nbsp;author = {{Goncharov}, Boris and {Reardon}, D.~J. and {Shannon}, R.~M. and {Zhu}, Xing-Jiang and {Thrane}, Eric and {Bailes}, M. and {Bhat}, N.~D.~R. and {Dai}, S. and {Hobbs}, G. and {Kerr}, M. and {Manchester}, R.~N. and {Os{\l}owski}, S. and {Parthasarathy}, A. and {Russell}, C.~J. and {Spiewak}, R. and {Thyagarajan}, N. and {Wang}, J.~B.},\
+> &nbsp;&nbsp;&nbsp;&nbsp;title = "{Identifying and mitigating noise sources in precision pulsar timing data sets}",\
+> &nbsp;&nbsp;&nbsp;&nbsp;journal = {\mnras},\
+> &nbsp;&nbsp;&nbsp;&nbsp;keywords = {stars: neutron, pulsars: general, methods: data analysis, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics, General Relativity and Quantum Cosmology},\
+> &nbsp;&nbsp;&nbsp;&nbsp;year = 2020,\
+> &nbsp;&nbsp;&nbsp;&nbsp;month = nov,\
+> &nbsp;&nbsp;&nbsp;&nbsp;doi = {10.1093/mnras/staa3411},\
+> &nbsp;&nbsp;&nbsp;&nbsp;archivePrefix = {arXiv},\
+> &nbsp;&nbsp;&nbsp;&nbsp;eprint = {2010.06109},\
+> &nbsp;&nbsp;&nbsp;&nbsp;primaryClass = {astro-ph.HE},\
+> }
