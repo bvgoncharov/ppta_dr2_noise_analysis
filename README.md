@@ -13,7 +13,7 @@ python run_dr2.py --prfile params/dr2_parameter_estimation.dat
 
 To obtain values from Figure 1 of the publication without running the analysis, maximum-aposteriori values along with 1-sigma credible levels are provided in the folder `/reproduce_figures/` in `.json` format.
 
-![Figure 1 from the publication (arXiv:2010.06109)](https://github.com/bvgoncharov/ppta_dr2_noise_analysis/reproduce_figures/figure_1.jpg "The distribution of spin noise, band noise, system noise, chromatic noise")
+![Figure 1 from the publication (arXiv:2010.06109)](https://github.com/bvgoncharov/ppta_dr2_noise_analysis/blob/master/reproduce_figures/figure_1.jpg "The distribution of spin noise, band noise, system noise, chromatic noise")
 
 ## Citation
 
