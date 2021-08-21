@@ -1,10 +1,19 @@
 # ppta_dr2_noise_analysis
+
+[arXiv:2010.06109](https://arxiv.org/abs/2010.06109) | [MNRAS](https://academic.oup.com/mnras/article-abstract/502/1/478/5957533)
+
 Tools to reproduce the PPTA DR2 noise analysis of pulsar timing residuals. The code is based on [enterprise_warp](https://github.com/bvgoncharov/enterprise_warp "enterprise_warp: Wrapper and tools for Enterprise").
 
 To perform parameter estimation with the most recent PPTA DR2 noise models, just run:
 ```
 python run_dr2.py --prfile params/dr2_parameter_estimation.dat
 ```
+
+## Measurements of power-law noise term parameters
+
+To obtain values from Figure 1 of the publication without running the analysis, maximum-aposteriori values along with 1-sigma credible levels are provided in the folder `/reproduce_figures/` in `.json` format.
+
+![Figure 1 from the publication (arXiv:2010.06109)](https://github.com/bvgoncharov/ppta_dr2_noise_analysis/reproduce_figures/figure_1.jpg "The distribution of spin noise, band noise, system noise, chromatic noise")
 
 ## Citation
 
